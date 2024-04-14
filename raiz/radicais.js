@@ -8,7 +8,7 @@ function calcularRadicais(numero, indice){
     return radical;
 }
 
-const numero = 25;
+const numero = 8;
 const indice = 3;
 const radical = calcularRadicais(numero, indice);
-console.log(`O radical de indice ${indice} de ${numero} é ${radical}`);
+console.log(`${numero} é o radicando, ${indice} é o indicice e ${radical} é a raiz cúbica de 8`);
